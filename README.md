@@ -23,8 +23,6 @@
 
 - 🪩 Love hanging out with friends
 
-- 💸 Forex trading expert
-
 <h2 align="left">My social media:</h2>
 <p align="left">
   <a href="https://instagram.com/joaopr03" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaopr03" height="30" width="40"/> </a>
