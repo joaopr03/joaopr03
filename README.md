@@ -31,7 +31,7 @@
 
 <h2 align="left">My curriculum:</h2>
 <p align="left">
-  <a href="url">Check my curriculum</a>
+  <a href="https://ibb.co/3vZkgJH">Check my curriculum</a>
 </p>
 
 <h2> My GitHub Stats </h2>
