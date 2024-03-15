@@ -29,6 +29,11 @@
   <a href="https://linkedin.com/in/joão-rodrigues-5ab6b4227" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaopr03" height="30" width="40"/> </a>
 </p>
 
+<h2 align="left">My curriculum:</h2>
+<p align="left">
+  <a href="url">Check my curriculum</a>
+</p>
+
 <h2> My GitHub Stats </h2>
 
 <p align="center">&nbsp;
