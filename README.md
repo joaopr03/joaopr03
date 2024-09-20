@@ -1,10 +1,10 @@
 <h1 align="center"> Hey 👋, I'm João Rodrigues </h1>
 
-- 🎓 Studying at **Instituto Superior Técnico (IST)**
+- 🎓 Studying at **NOVA IMS**
 
 - 📍 Living in **Lisbon, Portugal**
 
-- 👨‍💻 Currently learning **Computer Science**
+- 👨‍💻 Currently learning **Data Science**
 
 <h2 align="left">My Favourite Languages and Tools:</h2>
 <p align="left"> 
@@ -14,14 +14,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 </p>
-
-<h2 align="left">Curiosities about me:</h2>
-
-- 🏋 Love doing exercise
-
-- 📚 Always learning new skills
-
-- 🪩 Love hanging out with friends
 
 <h2 align="left">My social media:</h2>
 <p align="left">
